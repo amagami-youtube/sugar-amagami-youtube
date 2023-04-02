@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: amagami-bbs
+    name: night-sugar
     env: python
     region: Oregon
     plan: free
